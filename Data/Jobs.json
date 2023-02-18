@@ -1,0 +1,167 @@
+[
+     {
+          "category_name":"Fresher Jobs",
+          "category_id":"1",
+          "category_jobs": [
+               {
+                    "job_id":"1",
+                    "position_name":"UI/UX Designer",
+                    "company_name":"Winbrans.com",
+                    "job_location":"Canada",
+                    "job_type":"Intern",
+                    "salary":"$400-$500"
+               },
+               {
+                    "job_id":"2",
+                    "position_name":"Android Developer",
+                    "company_name":"Infiniza.com",
+                    "job_location":"Australia",
+                    "job_type":"Full Time",
+                    "salary":"$900-$1200"
+               },
+               {
+                    "job_id":"3",
+                    "position_name":"Junior Manager",
+                    "company_name":"Glovibo.com",
+                    "job_location":"Netherland",
+                    "job_type":"Part Time",
+                    "salary":"$150-$300"
+               },
+               {
+                    "job_id":"4",
+                    "position_name":"Web Developer",
+                    "company_name":"Udiza.com",
+                    "job_location":"USA",
+                    "job_type":"Intern",
+                    "salary":"$250-$400"
+               },
+               {
+                    "job_id":"5",
+                    "position_name":"SEO",
+                    "company_name":"Oqota.com",
+                    "job_location":"India",
+                    "job_type":"Intern",
+                    "salary":"$170-$330"
+               },
+               {
+                    "job_id":"6",
+                    "position_name":"Digital Marketer",
+                    "company_name":"Hotelzo.com",
+                    "job_location":"Sweden",
+                    "job_type":"Full Time",
+                    "salary":"$500-$700"
+               },
+               {
+                    "job_id":"7",
+                    "position_name":"Frontend Developer",
+                    "company_name":"Raiz Academy",
+                    "job_location":"Bangladesh",
+                    "job_type":"Intern",
+                    "salary":"$120-$200"
+               },
+               {
+                    "job_id":"8",
+                    "position_name":"React Js Developer",
+                    "company_name":"biddian",
+                    "job_location":"India",
+                    "job_type":"Intern",
+                    "salary":"$180-$290"
+               },
+               
+               {
+                    "job_id":"9",
+                    "position_name":"Wordpress Developer",
+                    "company_name":"Envelope",
+                    "job_location":"California, USA",
+                    "job_type":"Part Time",
+                    "salary":"$100-$290"
+               }
+               
+          ]
+     },
+     {
+          
+          "category_name":"Experienced Jobs",
+          "category_id":"2",
+          "category_jobs": [
+               
+                    {
+                         "job_id":"1",
+                         "position_name":"Product Designer",
+                         "company_name":"Bizotic.com",
+                         "job_location":"New Zealand",
+                         "job_type":"Full Time",
+                         "salary":"$900-$1500"
+                    },
+                    
+                    {
+                         "job_id":"2",
+                         "position_name":"Sales Manager",
+                         "company_name":"Gozuto.com",
+                         "job_location":"Uk,London",
+                         "job_type":"Full Time",
+                         "salary":"$700-$1000"
+                    },
+                    {
+                         "job_id":"3",
+                         "position_name":"Full Stack Developer",
+                         "company_name":"esion.com",
+                         "job_location":"Germany",
+                         "job_type":"Full Time",
+                         "salary":"$1200-$1500"
+                    },
+                    {
+                         "job_id":"4",
+                         "position_name":"Graphic Designer",
+                         "company_name":"Hunter Inc.",
+                         "job_location":"New York",
+                         "job_type":"Full Time",
+                         "salary":"$700-$1500"
+                    },
+                    {
+                         "job_id":"5",
+                         "position_name":"Managing Director",
+                         "company_name":"MagNews",
+                         "job_location":"California",
+                         "job_type":"Full Time",
+                         "salary":"$500-$700"
+                    },
+                    {
+                         "job_id":"6",
+                         "position_name":"Software Engineer",
+                         "company_name":"MizTech",
+                         "job_location":"Dubai",
+                         "job_type":"Full Time",
+                         "salary":"$1200-$1500"
+                    },
+                    {
+                         "job_id":"7",
+                         "position_name":"PHP Developer",
+                         "company_name":"YeanUi",
+                         "job_location":"Nepal",
+                         "job_type":"Full Time",
+                         "salary":"$1600-$1800"
+                    },
+                    {
+                         "job_id":"8",
+                         "position_name":"React Developer",
+                         "company_name":"YeanUi",
+                         "job_location":"Japan",
+                         "job_type":"Full Time",
+                         "salary":"$1600-$1800"
+                    },
+                    {
+                         "job_id":"8",
+                         "position_name":"Python Developer",
+                         "company_name":"Bongo",
+                         "job_location":"Bangladesh",
+                         "job_type":"Full Time",
+                         "salary":"$400-$600"
+                    }
+
+               
+               
+          ]
+     }
+     
+]
